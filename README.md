@@ -14,3 +14,7 @@ Sometimes the best improvement is a pause.
 
 **A minute of reflection is a step into history.**  
 **It doesn’t matter who you are. What matters is what you understood before taking that step.**
+![platform](https://img.shields.io/badge/platform-Windows-blue)
+![focus](https://img.shields.io/badge/focus-stability-success)
+![approach](https://img.shields.io/badge/approach-H.E.G.M.-informational)
+![license](https://img.shields.io/badge/license-user--defined-lightgrey)
