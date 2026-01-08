@@ -21,11 +21,4 @@ Sometimes the best improvement is a pause.
 ![license](https://img.shields.io/badge/license-user--defined-lightgrey)
 <img src="assets/banner-catpilot.png">
 <img src="assets/logo-catpilot.png">
-<p align="center">
-  <img src="assets/banner-catpilot.png" alt="CatPilot OS / H.E.G.M. Edition">
-</p>
 
-<h1 align="center">
-  <img src="assets/logo-catpilot.png" width="120"><br>
-  CatPilot OS / H.E.G.M. Edition
-</h1>
