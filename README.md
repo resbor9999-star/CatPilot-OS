@@ -19,6 +19,4 @@ Sometimes the best improvement is a pause.
 ![focus](https://img.shields.io/badge/focus-stability-success)
 ![approach](https://img.shields.io/badge/approach-H.E.G.M.-informational)
 ![license](https://img.shields.io/badge/license-user--defined-lightgrey)
-<img src="assets/banner-catpilot.png">
-<img src="assets/logo-catpilot.png">
 
